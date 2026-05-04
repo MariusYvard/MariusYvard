@@ -13,9 +13,9 @@
 ---
 
 I build intelligent systems at the intersection of **data, automation, and AI**.  
-Engineering background (Arts et Métiers) + naval command — I bring scientific rigor and operational discipline to every system I ship.
+Engineering background (Arts et Métiers) + naval command. I bring scientific rigor and operational discipline to every system I ship.
 
-Currently available for **freelance missions** in Data Engineering, AI Automation & OSINT — Paris or remote.
+Currently available for **freelance missions** in Data Engineering, AI Automation & OSINT. Paris or remote.
 
 ---
 
@@ -52,7 +52,7 @@ Currently available for **freelance missions** in Data Engineering, AI Automatio
 ### 🤖 Antigravity OSINT
 > Automated B2B decision-maker identification & enrichment pipeline
 
-Node.js + Puppeteer Stealth bot that extracts recruitment tensions and dissatisfaction signals from Glassdoor and LinkedIn, enriches contact data, and syncs enriched profiles to CRM — fully autonomous.
+Node.js + Puppeteer Stealth bot that extracts recruitment tensions and dissatisfaction signals from Glassdoor and LinkedIn, enriches contact data, and syncs enriched profiles to CRM, fully autonomous.
 
 `Node.js` · `Puppeteer Stealth` · `OSINT` · `Signal Intelligence` · `CRM Automation`
 
@@ -61,7 +61,7 @@ Node.js + Puppeteer Stealth bot that extracts recruitment tensions and dissatisf
 ### 🧠 Antigravity Prospector
 > LLM-powered outreach engine operating at human scale
 
-Orchestrates Gemma 7B via Ollama to convert raw business signals into personalized LinkedIn outreach. Simulates human behavior for connection requests, follow-ups, and objection handling — automated email sequences via ExcelJS. Part of a **€3.2M ARR qualified pipeline**.
+Orchestrates Gemma 7B via Ollama to convert raw business signals into personalized LinkedIn outreach. Simulates human behavior for connection requests, follow-ups, and objection handling. Automated email sequences via ExcelJS. Part of a **€3.2M ARR qualified pipeline**.
 
 `Python` · `LLM Orchestration` · `Gemma 7B` · `Ollama` · `LinkedIn Automation` · `ExcelJS`
 
@@ -95,4 +95,4 @@ Template-matching on 20 years of continuous seismic data. Cross-correlation, spe
 | 🌐 Portfolio | [lecvdemarius.netlify.app](https://lecvdemarius.netlify.app/) |
 | 📧 Email | [marius.yvard@ensam.eu](mailto:marius.yvard@ensam.eu) |
 
-> *Open to freelance missions — Data, AI & Automation — Paris or remote — Available Sept 2026*
+> *Open to freelance missions - Data, AI & Automation - Paris or remote - Available Sept 2026*
