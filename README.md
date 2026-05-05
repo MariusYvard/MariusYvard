@@ -8,6 +8,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://lecvdemarius.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:marius.yvard@ensam.eu)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;Building+data+pipelines+that+scale;Open+to+freelance+missions)](https://git.io/typing-svg)
+
+[![Status](https://img.shields.io/badge/🟢_Available_for_missions-Sept_2026-brightgreen?style=flat-square&logo=github)](https://www.linkedin.com/in/marius-yvard/)
+
 </div>
 
 ---
