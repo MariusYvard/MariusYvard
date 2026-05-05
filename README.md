@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MariusYvard/MariusYvard/main/assets/header.png" alt="Marius Yvard — AI Engineer" width="100%"/>
+
 <div align="center">
 
 # Marius Yvard
