@@ -8,9 +8,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marius-yvard)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://lecvdemarius.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:marius.yvard@ensam.eu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mariusyvard72@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;Building+data+pipelines+that+scale;Open+to+freelance+missions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;Data+pipelines+%C2%B7+LLM+orchestration;Open+to+freelance+missions)](https://git.io/typing-svg)
 
 [![Status](https://img.shields.io/badge/🟢_Available_for_missions-Sept_2026-brightgreen?style=flat-square&logo=github)](https://www.linkedin.com/in/marius-yvard/)
 
@@ -19,7 +19,7 @@
 ---
 
 I build intelligent systems at the intersection of **data, automation, and AI**.  
-Engineering background (Arts et Métiers) + naval command. I bring scientific rigor and operational discipline to every system I ship.
+Engineering background (Arts et Métiers) + naval command. Scientific rigor and operational discipline in every system I ship.
 
 Currently available for **freelance missions** in Data Engineering, AI Automation & OSINT. Paris or remote.
 
@@ -55,25 +55,34 @@ Currently available for **freelance missions** in Data Engineering, AI Automatio
 
 ## 📌 Featured Projects
 
-### 🤖 Antigravity OSINT
-> Automated B2B decision-maker identification & enrichment pipeline
+### 🤖 [Axiomarius](https://github.com/MariusYvard/axiomarius) — OSINT Enrichment
+> Local data enrichment pipeline for B2B decision-maker identification
 
-Node.js + Puppeteer Stealth bot that extracts recruitment tensions and dissatisfaction signals from Glassdoor and LinkedIn, enriches contact data, and syncs enriched profiles to CRM, fully autonomous.
+Node.js + Puppeteer Stealth bot that extracts recruitment tensions and dissatisfaction signals from Glassdoor and LinkedIn, enriches contact data with a local LLM, and syncs enriched profiles to Excel CRMs — fully autonomous.
 
-`Node.js` · `Puppeteer Stealth` · `OSINT` · `Signal Intelligence` · `CRM Automation`
-
----
-
-### 🧠 Antigravity Prospector
-> LLM-powered outreach engine operating at human scale
-
-Orchestrates Gemma 7B via Ollama to convert raw business signals into personalized LinkedIn outreach. Simulates human behavior for connection requests, follow-ups, and objection handling. Automated email sequences via ExcelJS. Part of a **€3.2M ARR qualified pipeline**.
-
-`Python` · `LLM Orchestration` · `Gemma 7B` · `Ollama` · `LinkedIn Automation` · `ExcelJS`
+`Node.js` · `Puppeteer Stealth` · `OSINT` · `Ollama` · `CRM Automation`
 
 ---
 
-### 🌋 Seismic Repeater Detection — IPGP
+### 🧠 [Vantarius](https://github.com/MariusYvard/vantarius) — AI Outreach Engine
+> LLM-powered LinkedIn outreach operating at human scale
+
+Orchestrates local LLMs via Ollama to convert raw business signals into personalized LinkedIn outreach. Simulates human behavior for connection requests, follow-ups, and objection handling. Part of a **€3.2M ARR qualified pipeline**.
+
+`JavaScript` · `LLM Orchestration` · `Ollama` · `LinkedIn Automation` · `B2B Sales`
+
+---
+
+### 🌐 [NullToHero](https://github.com/MariusYvard/NullToHero) — Claude Design + SEO Plugin
+> 3 skills · 34 commands · real browser preview · deterministic anti-pattern detector
+
+Claude Cowork plugin that gives an AI agent a complete design and SEO vocabulary. Covers production-grade UI building, accessibility audits, real Chromium screenshots, and full SEO diagnostics — so anyone can ship websites that look professional and rank on Google.
+
+`Claude API` · `Cowork Plugin` · `Design System` · `SEO` · `Browser Automation`
+
+---
+
+### 🌋 [Requake](https://github.com/MariusYvard/requake) — Seismic Repeater Detection
 > Repeating earthquake detection in the Lesser Antilles subduction zone
 
 Template-matching on 20 years of continuous seismic data. Cross-correlation, spectral analysis, interplate slip estimation. Contribution to open-source tool Requake. **Co-author of a scientific publication — IPGP, Nov 2025.**
@@ -99,6 +108,6 @@ Template-matching on 20 years of continuous seismic data. Cross-correlation, spe
 |---|---|
 | 💼 LinkedIn | [marius-yvard](https://www.linkedin.com/in/marius-yvard/) |
 | 🌐 Portfolio | [lecvdemarius.netlify.app](https://lecvdemarius.netlify.app/) |
-| 📧 Email | [marius.yvard@ensam.eu](mailto:marius.yvard@ensam.eu) |
+| 📧 Email | [mariusyvard72@gmail.com](mailto:mariusyvard72@gmail.com) |
 
-> *Open to freelance missions - Data, AI & Automation - Paris or remote - Available Sept 2026*
+> *Open to freelance missions — Data, AI & Automation — Paris or remote — Available Sept 2026*
