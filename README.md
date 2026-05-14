@@ -82,6 +82,15 @@ Claude Cowork plugin that gives an AI agent a complete design and SEO vocabulary
 
 ---
 
+### 🔬 [matlab-free-vscode](https://github.com/MariusYvard/matlab-free-vscode) — MATLAB in VS Code, zero licence
+> Full MATLAB environment via GNU Octave — no MathWorks subscription required
+
+VS Code extension with a custom LSP server: syntax highlighting, autocompletion, hover docs, go-to-definition, and `Ctrl+Enter` execution. Plots render as interactive SVG panels; `surf()` and `patch()` open live Three.js 3D views with free rotation. Standard `.m` files run without modification.
+
+`TypeScript` · `VS Code Extension` · `GNU Octave` · `LSP` · `Three.js`
+
+---
+
 ### 🌋 [Requake](https://github.com/MariusYvard/requake) — Seismic Repeater Detection
 > Repeating earthquake detection in the Lesser Antilles subduction zone
 
