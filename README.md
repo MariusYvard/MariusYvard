@@ -35,23 +35,27 @@ Disponible pour des **missions freelance** en Data Engineering, Automatisation I
 **Languages & Runtimes**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB%2FOctave-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 **AI / ML / Data**
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![Gemma](https://img.shields.io/badge/Gemma_7B-4285F4?style=flat-square&logo=google&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![LanceDB](https://img.shields.io/badge/LanceDB-6C47FF?style=flat-square&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![ObsPy](https://img.shields.io/badge/ObsPy-2C5F8A?style=flat-square&logoColor=white)
 
 **Automation & Tooling**
 
 ![Puppeteer](https://img.shields.io/badge/Puppeteer_Stealth-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_%2F_FastMCP-CC785C?style=flat-square&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![ExcelJS](https://img.shields.io/badge/ExcelJS-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -95,7 +99,7 @@ Claude Cowork plugin that gives an AI agent a complete design and SEO vocabulary
 
 *Plugin Claude Cowork qui donne à un agent IA un vocabulaire complet de design et SEO. Couvre la construction d'interfaces production, les audits d'accessibilité, les captures Chromium réelles et les diagnostics SEO complets.*
 
-`Claude API` · `Cowork Plugin` · `Design System` · `SEO` · `Browser Automation`
+`Claude API` · `Cowork Plugin` · `TypeScript` · `SEO` · `Browser Automation`
 
 ---
 
@@ -112,6 +116,18 @@ VS Code extension with a custom LSP server: syntax highlighting, autocompletion,
 
 ---
 
+### 🌋 [Requake](https://github.com/SeismicSource/requake) — Seismic Repeater Detection
+
+> 🇬🇧 Repeating earthquake detection in the Lesser Antilles subduction zone
+> 🇫🇷 Détection de séismes répétiteurs dans la zone de subduction des Petites Antilles
+
+Template-matching on 20 years of continuous seismic data. Cross-correlation, spectral analysis, interplate slip estimation. Open-source contribution to [Requake](https://github.com/SeismicSource/requake) (IPGP). **Co-author of a scientific publication — IPGP, Nov 2025.** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.10832203-blue?style=flat-square)](https://doi.org/10.5281/zenodo.10832203)
+
+*Corrélation croisée sur 20 ans de données sismiques continues. Analyse spectrale, estimation du glissement interplaque. Contribution open-source à [Requake](https://github.com/SeismicSource/requake) (IPGP). **Co-auteur d'une publication scientifique — IPGP, nov. 2025.***
+
+`Python` · `ObsPy` · `Template-Matching` · `Spectral Analysis` · `Open Source`
+
+---
 
 ## 📊 GitHub Stats
 
