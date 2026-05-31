@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MariusYvard/MariusYvard/main/assets/header.png" alt="Marius Yvard — AI Engineer" width="100%"/>
+<img src="https://raw.githubusercontent.com/MariusYvard/MariusYvard/main/assets/header.svg" alt="Marius Yvard — AI Engineer" width="100%"/>
 
 <div align="center">
 
@@ -122,6 +122,16 @@ VS Code extension with a custom LSP server: syntax highlighting, autocompletion,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariusYvard&show_icons=true&hide_border=true&count_private=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusYvard&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/MariusYvard/MariusYvard/main/dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariusYvard/MariusYvard/main/dist/snake-light.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/MariusYvard/MariusYvard/main/dist/snake-light.svg" />
+</picture>
 
 </div>
 
