@@ -12,20 +12,25 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;Data+pipelines+%C2%B7+LLM+orchestration;Open+to+freelance+missions)](https://git.io/typing-svg)
 
-[![Status](https://img.shields.io/badge/🟢_Available_for_missions-Sept_2026-brightgreen?style=flat-square&logo=github)](https://www.linkedin.com/in/marius-yvard/)
+[![Status](https://img.shields.io/badge/%F0%9F%9F%A2_Available_now_%2F_Disponible_maintenant-Open_to_missions-brightgreen?style=flat-square&logo=github)](https://www.linkedin.com/in/marius-yvard/)
 
 </div>
 
 ---
 
-I build intelligent systems at the intersection of **data, automation, and AI**.  
-Engineering background (Arts et Métiers) + naval command. Scientific rigor and operational discipline in every system I ship.
+🇬🇧 I build intelligent systems at the intersection of **data, automation, and AI**.
+Engineering background (Arts et Métiers) + former Navy Officer. Scientific rigor and operational discipline in every system I ship.
 
-Currently available for **freelance missions** in Data Engineering, AI Automation & OSINT. Paris or remote.
+Currently open to **freelance missions** in Data Engineering, AI Automation & OSINT. Paris or remote.
+
+🇫🇷 Je conçois des systèmes intelligents à l'intersection des **données, de l'automatisation et de l'IA**.
+Formation d'ingénieur (Arts et Métiers) + ancien officier de Marine. Rigueur scientifique et discipline opérationnelle dans chaque système livré.
+
+Disponible pour des **missions freelance** en Data Engineering, Automatisation IA & OSINT. Paris ou remote.
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Stack — Outils
 
 **Languages & Runtimes**
 
@@ -53,48 +58,68 @@ Currently available for **freelance missions** in Data Engineering, AI Automatio
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects — Projets
 
 ### 🤖 [Axiomarius](https://github.com/MariusYvard/axiomarius) — OSINT Enrichment
-> Local data enrichment pipeline for B2B decision-maker identification
+
+> 🇬🇧 Local data enrichment pipeline for B2B decision-maker identification
+> 🇫🇷 Pipeline d'enrichissement local pour l'identification de décideurs B2B
 
 Node.js + Puppeteer Stealth bot that extracts recruitment tensions and dissatisfaction signals from Glassdoor and LinkedIn, enriches contact data with a local LLM, and syncs enriched profiles to Excel CRMs — fully autonomous.
+
+*Bot Node.js + Puppeteer Stealth qui extrait les signaux de tension RH depuis Glassdoor et LinkedIn, enrichit les données de contact avec un LLM local et synchronise les profils enrichis vers des CRM Excel — entièrement autonome.*
 
 `Node.js` · `Puppeteer Stealth` · `OSINT` · `Ollama` · `CRM Automation`
 
 ---
 
 ### 🧠 [Vantarius](https://github.com/MariusYvard/vantarius) — AI Outreach Engine
-> LLM-powered LinkedIn outreach operating at human scale
+
+> 🇬🇧 LLM-powered LinkedIn outreach operating at human scale
+> 🇫🇷 Moteur de prospection LinkedIn propulsé par LLM à l'échelle humaine
 
 Orchestrates local LLMs via Ollama to convert raw business signals into personalized LinkedIn outreach. Simulates human behavior for connection requests, follow-ups, and objection handling. Part of a **€3.2M ARR qualified pipeline**.
+
+*Orchestre des LLMs locaux via Ollama pour convertir des signaux commerciaux bruts en messages LinkedIn personnalisés. Simule le comportement humain pour les demandes de connexion, relances et gestion des objections. Partie d'un **pipeline qualifié à 3,2M€ de CA**.*
 
 `JavaScript` · `LLM Orchestration` · `Ollama` · `LinkedIn Automation` · `B2B Sales`
 
 ---
 
 ### 🌐 [NullToHero](https://github.com/MariusYvard/NullToHero) — Claude Design + SEO Plugin
-> 3 skills · 34 commands · real browser preview · deterministic anti-pattern detector
+
+> 🇬🇧 3 skills · 47 commands · real browser preview · deterministic anti-pattern detector
+> 🇫🇷 3 skills · 47 commandes · aperçu navigateur réel · détecteur d'anti-patterns déterministe
 
 Claude Cowork plugin that gives an AI agent a complete design and SEO vocabulary. Covers production-grade UI building, accessibility audits, real Chromium screenshots, and full SEO diagnostics — so anyone can ship websites that look professional and rank on Google.
+
+*Plugin Claude Cowork qui donne à un agent IA un vocabulaire complet de design et SEO. Couvre la construction d'interfaces production, les audits d'accessibilité, les captures Chromium réelles et les diagnostics SEO complets.*
 
 `Claude API` · `Cowork Plugin` · `Design System` · `SEO` · `Browser Automation`
 
 ---
 
 ### 🔬 [matlab-free-vscode](https://github.com/MariusYvard/matlab-free-vscode) — MATLAB in VS Code, zero licence
-> Full MATLAB environment via GNU Octave — no MathWorks subscription required
+
+> 🇬🇧 Full MATLAB environment via GNU Octave — no MathWorks subscription required
+> 🇫🇷 Environnement MATLAB complet via GNU Octave — sans abonnement MathWorks
 
 VS Code extension with a custom LSP server: syntax highlighting, autocompletion, hover docs, go-to-definition, and `Ctrl+Enter` execution. Plots render as interactive SVG panels; `surf()` and `patch()` open live Three.js 3D views with free rotation. Standard `.m` files run without modification.
+
+*Extension VS Code avec un serveur LSP personnalisé : coloration syntaxique, autocomplétion, documentation au survol, aller à la définition et exécution `Ctrl+Entrée`. Les graphiques s'affichent en SVG interactif ; `surf()` et `patch()` ouvrent des vues 3D Three.js avec rotation libre.*
 
 `TypeScript` · `VS Code Extension` · `GNU Octave` · `LSP` · `Three.js`
 
 ---
 
-### 🌋 [Requake](https://github.com/MariusYvard/requake) — Seismic Repeater Detection
-> Repeating earthquake detection in the Lesser Antilles subduction zone
+### 🌋 [Requake](https://github.com/SeismicSource/requake) — Seismic Repeater Detection
 
-Template-matching on 20 years of continuous seismic data. Cross-correlation, spectral analysis, interplate slip estimation. Contribution to open-source tool Requake. **Co-author of a scientific publication — IPGP, Nov 2025.**
+> 🇬🇧 Repeating earthquake detection in the Lesser Antilles subduction zone
+> 🇫🇷 Détection de séismes répétiteurs dans la zone de subduction des Petites Antilles
+
+Template-matching on 20 years of continuous seismic data. Cross-correlation, spectral analysis, interplate slip estimation. Open-source contribution to [Requake](https://github.com/SeismicSource/requake) (IPGP). **Co-author of a scientific publication — IPGP, Nov 2025.** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.10832203-blue?style=flat-square)](https://doi.org/10.5281/zenodo.10832203)
+
+*Corrélation croisée sur 20 ans de données sismiques continues. Analyse spectrale, estimation du glissement interplaque. Contribution open-source à [Requake](https://github.com/SeismicSource/requake) (IPGP). **Co-auteur d'une publication scientifique — IPGP, nov. 2025.***
 
 `Python` · `ObsPy` · `Template-Matching` · `Spectral Analysis` · `Open Source`
 
@@ -111,7 +136,7 @@ Template-matching on 20 years of continuous seismic data. Cross-correlation, spe
 
 ---
 
-## 📬 Let's work together
+## 📬 Let's work together — Travaillons ensemble
 
 | | |
 |---|---|
@@ -119,4 +144,5 @@ Template-matching on 20 years of continuous seismic data. Cross-correlation, spe
 | 🌐 Portfolio | [lecvdemarius.netlify.app](https://lecvdemarius.netlify.app/) |
 | 📧 Email | [mariusyvard72@gmail.com](mailto:mariusyvard72@gmail.com) |
 
-> *Open to freelance missions — Data, AI & Automation — Paris or remote — Available Sept 2026*
+> 🇬🇧 *Open to freelance missions — Data, AI & Automation — Paris or remote — **Available now***
+> 🇫🇷 *Disponible pour missions freelance — Data, IA & Automatisation — Paris ou remote — **Disponible maintenant***
