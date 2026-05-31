@@ -116,19 +116,6 @@ VS Code extension with a custom LSP server: syntax highlighting, autocompletion,
 
 ---
 
-### 🌋 [Requake](https://github.com/SeismicSource/requake) — Seismic Repeater Detection
-
-> 🇬🇧 Repeating earthquake detection in the Lesser Antilles subduction zone
-> 🇫🇷 Détection de séismes répétiteurs dans la zone de subduction des Petites Antilles
-
-Template-matching on 20 years of continuous seismic data. Cross-correlation, spectral analysis, interplate slip estimation. Open-source contribution to [Requake](https://github.com/SeismicSource/requake) (IPGP). **Co-author of a scientific publication — IPGP, Nov 2025.** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.10832203-blue?style=flat-square)](https://doi.org/10.5281/zenodo.10832203)
-
-*Corrélation croisée sur 20 ans de données sismiques continues. Analyse spectrale, estimation du glissement interplaque. Contribution open-source à [Requake](https://github.com/SeismicSource/requake) (IPGP). **Co-auteur d'une publication scientifique — IPGP, nov. 2025.***
-
-`Python` · `ObsPy` · `Template-Matching` · `Spectral Analysis` · `Open Source`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
