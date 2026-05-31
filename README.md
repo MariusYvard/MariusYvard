@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marius-yvard)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://lecvdemarius.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mariusyvard72@gmail.com)
+[![Paris Time](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FMariusYvard%2FMariusYvard%2Fmain%2Fdist%2Ftime.json&query=%24.time&label=%F0%9F%95%90%20Paris&color=0d1117&style=flat-square)](https://time.is/Paris)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;Data+pipelines+%C2%B7+LLM+orchestration;Open+to+freelance+missions)](https://git.io/typing-svg)
 
@@ -59,6 +60,16 @@ Disponible pour des **missions freelance** en Data Engineering, Automatisation I
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![ExcelJS](https://img.shields.io/badge/ExcelJS-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🖥️ ./marius --help
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MariusYvard/MariusYvard/main/assets/terminal.svg" alt="./marius --help" width="100%"/>
+
+</div>
 
 ---
 
