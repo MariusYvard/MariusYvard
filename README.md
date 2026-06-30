@@ -51,6 +51,8 @@ Disponible pour des **missions freelance** en Data Engineering, Automatisation I
 ![LanceDB](https://img.shields.io/badge/LanceDB-6C47FF?style=flat-square&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![ObsPy](https://img.shields.io/badge/ObsPy-2C5F8A?style=flat-square&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-FF6F61?style=flat-square&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Automation & Tooling**
 
@@ -75,42 +77,55 @@ Disponible pour des **missions freelance** en Data Engineering, Automatisation I
 
 ## 📌 Featured Projects — Projets
 
-### 🤖 [Axiomarius](https://github.com/MariusYvard/axiomarius) — OSINT Enrichment
+### 🌐 [NullToHero](https://github.com/MariusYvard/NullToHero) — Claude plugin to build, audit and ship websites
 
-> 🇬🇧 Local data enrichment pipeline for B2B decision-maker identification
-> 🇫🇷 Pipeline d'enrichissement local pour l'identification de décideurs B2B
+> 🇬🇧 4 skills · 59 commands · 95 reference docs · 14 parallel audit sub-agents · one whole-site score
+> 🇫🇷 4 skills · 59 commandes · 95 docs de référence · 14 sous-agents d'audit parallèles · un score global
 
-Node.js + Puppeteer Stealth bot that extracts recruitment tensions and dissatisfaction signals from Glassdoor and LinkedIn, enriches contact data with a local LLM, and syncs enriched profiles to Excel CRMs — fully autonomous.
+Claude Cowork plugin that gives an AI agent the taste and checklists of a senior web team: a designer, an SEO specialist, a quality inspector, and an `/audit` orchestrator that runs all 14 specialists at once into one deterministic site-health score and one prioritized action plan. Covers production UI, WCAG 2.2 accessibility, Core Web Vitals, Schema.org, AI-search visibility (GEO), a WCAG-checked design-system generator and a code-quality review of the output.
 
-*Bot Node.js + Puppeteer Stealth qui extrait les signaux de tension RH depuis Glassdoor et LinkedIn, enrichit les données de contact avec un LLM local et synchronise les profils enrichis vers des CRM Excel — entièrement autonome.*
+*Plugin Claude Cowork qui donne à un agent IA le goût et les check-lists d'une équipe web senior : un designer, un spécialiste SEO, un inspecteur qualité et un orchestrateur `/audit` qui lance les 14 spécialistes d'un coup vers un score de santé déterministe et un plan d'action priorisé. Couvre l'UI de production, l'accessibilité WCAG 2.2, les Core Web Vitals, Schema.org, la visibilité en recherche IA (GEO), un générateur de design-system vérifié WCAG et une revue qualité du code produit.*
 
-`Node.js` · `Puppeteer Stealth` · `OSINT` · `Ollama` · `CRM Automation`
-
----
-
-### 🧠 [Vantarius](https://github.com/MariusYvard/vantarius) — AI Outreach Engine
-
-> 🇬🇧 LLM-powered LinkedIn outreach operating at human scale
-> 🇫🇷 Moteur de prospection LinkedIn propulsé par LLM à l'échelle humaine
-
-Orchestrates local LLMs via Ollama to convert raw business signals into personalized LinkedIn outreach. Simulates human behavior for connection requests, follow-ups, and objection handling. Part of a **€3.2M ARR qualified pipeline**.
-
-*Orchestre des LLMs locaux via Ollama pour convertir des signaux commerciaux bruts en messages LinkedIn personnalisés. Simule le comportement humain pour les demandes de connexion, relances et gestion des objections. Partie d'un **pipeline qualifié à 3,2M€ de CA**.*
-
-`JavaScript` · `LLM Orchestration` · `Ollama` · `LinkedIn Automation` · `B2B Sales`
+`Claude API` · `Cowork Plugin` · `Design System` · `SEO / GEO` · `WCAG 2.2` · `Multi-Agent`
 
 ---
 
-### 🌐 [NullToHero](https://github.com/MariusYvard/NullToHero) — Claude Design + SEO Plugin
+### 🤖 [Axiomarius](https://github.com/MariusYvard/axiomarius) + [Vantarius](https://github.com/MariusYvard/vantarius) — OSINT enrichment + AI outreach
 
-> 🇬🇧 3 skills · 47 commands · real browser preview · deterministic anti-pattern detector
-> 🇫🇷 3 skills · 47 commandes · aperçu navigateur réel · détecteur d'anti-patterns déterministe
+> 🇬🇧 A two-stage B2B engine: find and enrich decision-makers, then reach them with local-LLM outreach
+> 🇫🇷 Un moteur B2B en deux temps : trouver et enrichir les décideurs, puis les contacter avec un LLM local
 
-Claude Cowork plugin that gives an AI agent a complete design and SEO vocabulary. Covers production-grade UI building, accessibility audits, real Chromium screenshots, and full SEO diagnostics — so anyone can ship websites that look professional and rank on Google.
+**Axiomarius** extracts recruitment-tension and dissatisfaction signals from Glassdoor and LinkedIn, enriches contact data with a local LLM and syncs profiles to Excel CRMs. **Vantarius** then turns those signals into personalized LinkedIn outreach, simulating human behavior for connection requests, follow-ups and objection handling. Part of a **€3.2M ARR qualified pipeline**, fully local and autonomous.
 
-*Plugin Claude Cowork qui donne à un agent IA un vocabulaire complet de design et SEO. Couvre la construction d'interfaces production, les audits d'accessibilité, les captures Chromium réelles et les diagnostics SEO complets.*
+*Axiomarius extrait les signaux de tension RH depuis Glassdoor et LinkedIn, enrichit les contacts avec un LLM local et synchronise vers des CRM Excel. Vantarius transforme ensuite ces signaux en messages LinkedIn personnalisés, en simulant le comportement humain. Partie d'un pipeline qualifié à 3,2M€ de CA, entièrement local et autonome.*
 
-`Claude API` · `Cowork Plugin` · `TypeScript` · `SEO` · `Browser Automation`
+`Node.js` · `Puppeteer Stealth` · `OSINT` · `Ollama` · `LinkedIn Automation` · `B2B Sales`
+
+---
+
+### ✍️ [Scriptorium](https://github.com/MariusYvard/Scriptorium) — High-end writing studio for Claude
+
+> 🇬🇧 24 sourced genres, deterministic quality scripts, a 0-100 scorecard and a strict house style
+> 🇫🇷 24 genres sourcés, scripts qualité déterministes, un scorecard 0-100 et un style maison strict
+
+A Claude plugin that takes a document from framing to delivery: sourcing and fact-checking, drafting across academic, strategic, legal and technical genres, an adversarial review with a claim-evidence map, and export to Word, PDF or HTML driven by a visual charter. Deterministic scripts score traceability, terminology, numbers, citations and AI-fingerprint.
+
+*Plugin Claude qui mène un document du cadrage à la livraison : sourcing et vérification, rédaction sur des genres académiques, stratégiques, juridiques et techniques, une revue adversariale avec carte preuve-affirmation, et export Word, PDF ou HTML piloté par une charte graphique. Des scripts déterministes notent la traçabilité, la terminologie, les nombres, les citations et l'empreinte IA.*
+
+`Claude API` · `Cowork Plugin` · `NLP` · `Deterministic Scoring` · `Document Generation`
+
+---
+
+### 🌙 [dream](https://github.com/MariusYvard/dream) — Cognitive dream cycle for Claude
+
+> 🇬🇧 A long-term memory that consolidates nightly: a temporal graph palace, local sanitization, multi-agent debate
+> 🇫🇷 Une mémoire long terme qui se consolide la nuit : palais graphique temporel, sanitisation locale, débat multi-agents
+
+Gives a Claude agent a persistent memory that mimics sleep: a nightly four-phase cycle merges the day's notes into a temporal graph (the Palais Graphique Temporel), scores each memory's vitality and prunes the cold ones. Secrets are sanitized locally before storage and a circuit breaker guards the run. Local models via Ollama, no data leaves the machine.
+
+*Donne à un agent Claude une mémoire persistante qui imite le sommeil : un cycle nocturne en quatre phases fusionne les notes du jour dans un graphe temporel, note la vitalité de chaque souvenir et élague les plus froids. Les secrets sont nettoyés localement avant stockage. Modèles locaux via Ollama, aucune donnée ne sort de la machine.*
+
+`Python` · `FastMCP` · `LanceDB` · `NetworkX` · `Ollama` · `Local-first`
 
 ---
 
