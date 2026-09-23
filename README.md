@@ -4,14 +4,14 @@
 
 # Marius Yvard
 
-**AI & Automation Engineer · Data Scientist · Freelance**
+**AI & Agent Systems Engineer · Data Scientist · Freelance**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marius-yvard)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://lecvdemarius.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mariusyvard72@gmail.com)
 [![Paris Time](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FMariusYvard%2FMariusYvard%2Fmain%2Fdist%2Ftime.json&query=%24.time&label=%F0%9F%95%90%20Paris&color=0d1117&style=flat-square)](https://time.is/Paris)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;Data+pipelines+%C2%B7+LLM+orchestration;Open+to+freelance+missions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Agent+Systems+Engineer;Data+pipelines+%C2%B7+LLM+orchestration;Deterministic+evals+%C2%B7+multi-agent+workflows;Open+to+freelance+missions)](https://git.io/typing-svg)
 
 [![Status](https://img.shields.io/badge/%F0%9F%9F%A2_Available_now_%2F_Disponible_maintenant-Open_to_missions-brightgreen?style=flat-square&logo=github)](https://www.linkedin.com/in/marius-yvard/)
 
@@ -19,15 +19,15 @@
 
 ---
 
-🇬🇧 I build intelligent systems at the intersection of **data, automation, and AI**.
+🇬🇧 I build reliable systems at the intersection of **data, automation, and AI agents**.
 Engineering background (Arts et Métiers) + former Navy Officer. Scientific rigor and operational discipline in every system I ship.
 
-Currently open to **freelance missions** in Data Engineering, AI Automation & OSINT. Paris or remote.
+Currently open to **freelance missions** in Data Engineering, AI Automation, Agent Systems & OSINT. Paris or remote.
 
-🇫🇷 Je conçois des systèmes intelligents à l'intersection des **données, de l'automatisation et de l'IA**.
+🇫🇷 Je conçois des systèmes fiables à l'intersection des **données, de l'automatisation et des agents IA**.
 Formation d'ingénieur (Arts et Métiers) + ancien officier de Marine. Rigueur scientifique et discipline opérationnelle dans chaque système livré.
 
-Disponible pour des **missions freelance** en Data Engineering, Automatisation IA & OSINT. Paris ou remote.
+Disponible pour des **missions freelance** en Data Engineering, Automatisation IA, Systèmes multi-agents & OSINT. Paris ou remote.
 
 ---
 
@@ -77,16 +77,16 @@ Disponible pour des **missions freelance** en Data Engineering, Automatisation I
 
 ## 📌 Featured Projects — Projets
 
-### 🌐 [NullToHero](https://github.com/MariusYvard/NullToHero) — Claude plugin to build, audit and ship websites
+### 🌐 [NullToHero](https://github.com/MariusYvard/NullToHero) — Portable agent toolkit to build, audit and ship websites
 
-> 🇬🇧 4 skills · 59 commands · 95 reference docs · 14 parallel audit sub-agents · one whole-site score
-> 🇫🇷 4 skills · 59 commandes · 95 docs de référence · 14 sous-agents d'audit parallèles · un score global
+> 🇬🇧 v4.0 · 4 skills · 68 commands · 137 reference docs · 15 parallel audit sub-agents
+> 🇫🇷 v4.0 · 4 skills · 68 commandes · 137 docs de référence · 15 sous-agents d'audit parallèles
 
-Claude Cowork plugin that gives an AI agent the taste and checklists of a senior web team: a designer, an SEO specialist, a quality inspector, and an `/audit` orchestrator that runs all 14 specialists at once into one deterministic site-health score and one prioritized action plan. Covers production UI, WCAG 2.2 accessibility, Core Web Vitals, Schema.org, AI-search visibility (GEO), a WCAG-checked design-system generator and a code-quality review of the output.
+Agent Skills toolkit that gives Claude Code, OpenAI Codex, Kimi and Hermes the workflows and deterministic checks of a senior web team. Its `/audit` orchestrator runs 15 specialists in parallel and merges their findings into one site-health score and prioritized action plan. Covers production UI, WCAG 2.2, Core Web Vitals, SEO/GEO, Schema.org, code quality and a three-layer mobile validation protocol that never presents desktop WebKit as Safari iOS.
 
-*Plugin Claude Cowork qui donne à un agent IA le goût et les check-lists d'une équipe web senior : un designer, un spécialiste SEO, un inspecteur qualité et un orchestrateur `/audit` qui lance les 14 spécialistes d'un coup vers un score de santé déterministe et un plan d'action priorisé. Couvre l'UI de production, l'accessibilité WCAG 2.2, les Core Web Vitals, Schema.org, la visibilité en recherche IA (GEO), un générateur de design-system vérifié WCAG et une revue qualité du code produit.*
+*Boîte à outils Agent Skills qui fournit à Claude Code, OpenAI Codex, Kimi et Hermes les méthodes et contrôles déterministes d'une équipe web senior. Son orchestrateur `/audit` lance 15 spécialistes en parallèle puis fusionne leurs résultats en un score de santé et un plan d'action priorisé. Couvre l'UI de production, WCAG 2.2, les Core Web Vitals, le SEO/GEO, Schema.org, la qualité du code et un protocole mobile à trois niveaux qui ne présente jamais WebKit desktop comme Safari iOS.*
 
-`Claude API` · `Cowork Plugin` · `Design System` · `SEO / GEO` · `WCAG 2.2` · `Multi-Agent`
+`Agent Skills` · `Claude Code` · `OpenAI Codex` · `Kimi` · `Hermes Agent` · `Playwright` · `Multi-Agent`
 
 ---
 
