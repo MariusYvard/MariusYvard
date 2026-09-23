@@ -7,7 +7,7 @@
 **AI & Agent Systems Engineer · Data Scientist · Freelance**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marius-yvard)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://lecvdemarius.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://mariusweb.fr/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mariusyvard72@gmail.com)
 [![Paris Time](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FMariusYvard%2FMariusYvard%2Fmain%2Fdist%2Ftime.json&query=%24.time&label=%F0%9F%95%90%20Paris&color=0d1117&style=flat-square)](https://time.is/Paris)
 
@@ -90,29 +90,29 @@ Agent Skills toolkit that gives Claude Code, OpenAI Codex, Kimi and Hermes the w
 
 ---
 
-### 🤖 [Axiomarius](https://github.com/MariusYvard/axiomarius) + [Vantarius](https://github.com/MariusYvard/vantarius) — OSINT enrichment + AI outreach
+### 🏢 [corparius](https://github.com/MariusYvard/corparius) — Self-hosted autonomous AI micro-companies
 
-> 🇬🇧 A two-stage B2B engine: find and enrich decision-makers, then reach them with local-LLM outreach
-> 🇫🇷 Un moteur B2B en deux temps : trouver et enrichir les décideurs, puis les contacter avec un LLM local
+> 🇬🇧 Ten scheduled agents, one operator console, explicit budgets and human approval gates
+> 🇫🇷 Dix agents planifiés, une console opérateur, des budgets explicites et des validations humaines
 
-**Axiomarius** extracts recruitment-tension and dissatisfaction signals from Glassdoor and LinkedIn, enriches contact data with a local LLM and syncs profiles to Excel CRMs. **Vantarius** then turns those signals into personalized LinkedIn outreach, simulating human behavior for connection requests, follow-ups and objection handling. Part of a **€3.2M ARR qualified pipeline**, fully local and autonomous.
+Describe a business in plain language and corparius runs it through a CEO and nine operational agents. The orchestrator is local-first, records every action in SQLite and stops on budget, loop or circuit-breaker limits. Money, outreach and production deployment remain behind explicit human approval. It ships as desktop binaries, a Python package and a Docker image.
 
-*Axiomarius extrait les signaux de tension RH depuis Glassdoor et LinkedIn, enrichit les contacts avec un LLM local et synchronise vers des CRM Excel. Vantarius transforme ensuite ces signaux en messages LinkedIn personnalisés, en simulant le comportement humain. Partie d'un pipeline qualifié à 3,2M€ de CA, entièrement local et autonome.*
+*Décrivez une activité en langage naturel et corparius l'exécute avec un CEO et neuf agents opérationnels. L'orchestrateur fonctionne d'abord en local, journalise chaque action dans SQLite et s'arrête sur les limites de budget, de boucle ou de circuit. Les paiements, la prospection et les déploiements restent soumis à une validation humaine explicite.*
 
-`Node.js` · `Puppeteer Stealth` · `OSINT` · `Ollama` · `LinkedIn Automation` · `B2B Sales`
+`Python` · `Svelte` · `SQLite` · `MCP` · `Multi-Agent` · `Local-first` · `HITL`
 
 ---
 
-### ✍️ [Scriptorium](https://github.com/MariusYvard/Scriptorium) — High-end writing studio for Claude
+### ✍️ [Scriptorium](https://github.com/MariusYvard/Scriptorium) — Rigorous writing and document-production studio
 
-> 🇬🇧 24 sourced genres, deterministic quality scripts, a 0-100 scorecard and a strict house style
-> 🇫🇷 24 genres sourcés, scripts qualité déterministes, un scorecard 0-100 et un style maison strict
+> 🇬🇧 26 sourced genres · 27 deterministic scripts · 756 evaluations · Claude and Hermes
+> 🇫🇷 26 genres sourcés · 27 scripts déterministes · 756 évaluations · Claude et Hermes
 
-A Claude plugin that takes a document from framing to delivery: sourcing and fact-checking, drafting across academic, strategic, legal and technical genres, an adversarial review with a claim-evidence map, and export to Word, PDF or HTML driven by a visual charter. Deterministic scripts score traceability, terminology, numbers, citations and AI-fingerprint.
+Scriptorium takes a document from framing to delivery: source triangulation, drafting, claim-evidence mapping, adversarial review and export to Word, PDF, HTML, LaTeX or PowerPoint. Its deterministic Python checks measure traceability, terminology, numbers, citations and AI fingerprints. The same repository provides a Claude plugin and an Agent Skills port for Hermes.
 
-*Plugin Claude qui mène un document du cadrage à la livraison : sourcing et vérification, rédaction sur des genres académiques, stratégiques, juridiques et techniques, une revue adversariale avec carte preuve-affirmation, et export Word, PDF ou HTML piloté par une charte graphique. Des scripts déterministes notent la traçabilité, la terminologie, les nombres, les citations et l'empreinte IA.*
+*Scriptorium mène un document du cadrage à la livraison : triangulation des sources, rédaction, carte preuve-affirmation, revue contradictoire et export Word, PDF, HTML, LaTeX ou PowerPoint. Ses contrôles Python déterministes mesurent la traçabilité, la terminologie, les nombres, les citations et l'empreinte IA. Le dépôt fournit un plugin Claude et un portage Agent Skills pour Hermes.*
 
-`Claude API` · `Cowork Plugin` · `NLP` · `Deterministic Scoring` · `Document Generation`
+`Claude Code` · `Hermes Agent` · `Python` · `Deterministic Scoring` · `Document Generation`
 
 ---
 
@@ -129,16 +129,29 @@ Gives a Claude agent a persistent memory that mimics sleep: a nightly four-phase
 
 ---
 
-### 🔬 [matlab-free-vscode](https://github.com/MariusYvard/matlab-free-vscode) — MATLAB in VS Code, zero licence
+### 💼 [Saleasy](https://github.com/MariusYvard/saleasy) — Sales assistant from positioning to renewal
 
-> 🇬🇧 Full MATLAB environment via GNU Octave — no MathWorks subscription required
-> 🇫🇷 Environnement MATLAB complet via GNU Octave — sans abonnement MathWorks
+> 🇬🇧 Four skills for setup, marketing, prospecting and selling, adapted to each user's market and tools
+> 🇫🇷 Quatre compétences pour la configuration, le marketing, la prospection et la vente, adaptées à chaque activité
 
-VS Code extension with a custom LSP server: syntax highlighting, autocompletion, hover docs, go-to-definition, and `Ctrl+Enter` execution. Plots render as interactive SVG panels; `surf()` and `patch()` open live Three.js 3D views with free rotation. Standard `.m` files run without modification.
+Saleasy turns Claude into a structured commercial assistant. It builds a reusable business profile, prepares content and campaigns, scores prospects, drafts approved outreach, prepares meetings and tracks pipeline, negotiation and retention. Sending remains subject to explicit approval and official email or CRM connectors.
 
-*Extension VS Code avec un serveur LSP personnalisé : coloration syntaxique, autocomplétion, documentation au survol, aller à la définition et exécution `Ctrl+Entrée`. Les graphiques s'affichent en SVG interactif ; `surf()` et `patch()` ouvrent des vues 3D Three.js avec rotation libre.*
+*Saleasy transforme Claude en assistant commercial structuré. Il construit un profil d'activité réutilisable, prépare les contenus et campagnes, note les prospects, rédige les prises de contact validées, prépare les rendez-vous et suit le pipeline, la négociation et la fidélisation. Chaque envoi reste soumis à une validation explicite et passe par les connecteurs officiels.*
 
-`TypeScript` · `VS Code Extension` · `GNU Octave` · `LSP` · `Three.js`
+`Claude Code` · `Agent Skills` · `Sales Operations` · `CRM` · `GDPR` · `HITL`
+
+---
+
+### 🎞️ [ASCILINE](https://github.com/YusufB5/ASCILINE) — Real-time ASCII video rendering engine
+
+> 🇬🇧 Cross-platform 24–30 FPS playback through a binary WebSocket protocol and HTML5 Canvas
+> 🇫🇷 Lecture multiplateforme à 24–30 FPS via un protocole WebSocket binaire et HTML5 Canvas
+
+ASCILINE converts video into text or colored-block frames for terminals and browsers. Its adaptive codec chooses among raw, zlib, delta, run-length and DCT representations. It supports real-time streaming, static compilation, webcam input, Docker and a zero-dependency web player.
+
+*ASCILINE convertit les vidéos en caractères ou blocs colorés pour les terminaux et navigateurs. Son codec adaptatif choisit entre représentations brutes, zlib, delta, RLE et DCT. Il couvre le streaming temps réel, la compilation statique, la webcam, Docker et un lecteur web sans dépendance.*
+
+`Python` · `FastAPI` · `WebSocket` · `OpenCV` · `NumPy` · `HTML5 Canvas`
 
 ---
 
@@ -168,8 +181,8 @@ VS Code extension with a custom LSP server: syntax highlighting, autocompletion,
 | | |
 |---|---|
 | 💼 LinkedIn | [marius-yvard](https://www.linkedin.com/in/marius-yvard/) |
-| 🌐 Portfolio | [lecvdemarius.netlify.app](https://lecvdemarius.netlify.app/) |
+| 🌐 Portfolio | [mariusweb.fr](https://mariusweb.fr/) |
 | 📧 Email | [mariusyvard72@gmail.com](mailto:mariusyvard72@gmail.com) |
 
-> 🇬🇧 *Open to freelance missions — Data, AI & Automation — Paris or remote — **Available now***
-> 🇫🇷 *Disponible pour missions freelance — Data, IA & Automatisation — Paris ou remote — **Disponible maintenant***
+> 🇬🇧 *Open to freelance missions — Data, AI & Agent Systems — Paris or remote — **Available now***
+> 🇫🇷 *Disponible pour missions freelance — Data, IA & Systèmes multi-agents — Paris ou remote — **Disponible maintenant***
